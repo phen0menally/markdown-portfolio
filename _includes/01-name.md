@@ -1,1 +1,2 @@
-# Replace this with your name, and include a header.
+# Welcome to My Markdown Profile.
+**I'm just starting my journey** 
